@@ -6,7 +6,7 @@ h1 {
   font-size: 45px;
   display:table-cell; 
   vertical-align:middle;
-  width: 1500px;
+  width: 100vw;
   height: 100px;
   background-color: grey;
   animation-name: title;
