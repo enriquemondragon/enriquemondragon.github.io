@@ -71,3 +71,7 @@ a:hover {
 hr.class-1 {
         border-top: 40px solid LightGray;
     }
+
+.avatar {
+  border-radius: 50%;
+}
