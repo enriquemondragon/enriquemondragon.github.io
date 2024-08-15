@@ -2,7 +2,7 @@
 h1 {
   text-align: center;
   color: black;
-  font-family: "Verdana", "Arial", "Helvetica";
+  font-family: "Helvetica";
   font-size: 45px;
   display:table-cell; 
   vertical-align:middle;
@@ -21,7 +21,7 @@ h1 {
 
 h2 {
   color: black;
-  font-family: "Verdana", "Arial", "Helvetica";
+  font-family: "Helvetica";
   font-size: 50px;
   display:table-cell; 
   vertical-align:middle;
@@ -31,7 +31,7 @@ h2 {
 
 h3 {
   color: black;
-  font-family: "Verdana", "Arial", "Helvetica";
+  font-family: "Helvetica";
   font-size: 30px;
   display:table-cell; 
   vertical-align:middle;
@@ -40,14 +40,14 @@ h3 {
 }
 
 p {
-  color: black;
-  font-family: "Verdana", "Arial", "Helvetica";
+  color: DimGray;
+  font-family: "Helvetica";
   font-size: 20px;
 }
 
 li {
-  color: black;
-  font-family: "Verdana", "Arial", "Helvetica";
+  color: DimGray;
+  font-family: "Helvetica";
   font-size: 20px;
 }
 
