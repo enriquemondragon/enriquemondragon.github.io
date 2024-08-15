@@ -55,7 +55,7 @@ li {
 a:link, a:visited {
   background-color: gray;
   color: LightGray;
-  padding: 5px 5px;
+  padding: 2px 4px;
   text-align: center;
   text-decoration: none;
 }
