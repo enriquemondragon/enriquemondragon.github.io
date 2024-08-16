@@ -75,3 +75,7 @@ hr.class-1 {
 .avatar {
   border-radius: 50%;
 }
+
+ul { 
+    text-align: left;
+}
