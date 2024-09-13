@@ -40,13 +40,13 @@ h3 {
 }
 
 p {
-  color: black; /* DimGray */
+  color: DimGray; /* DimGray */
   font-family: "Helvetica";
   font-size: 20px;
 }
 
 li {
-  color: black; /* DimGray */
+  color: DimGray; /* DimGray */
   font-family: "Helvetica";
   font-size: 20px;
 }
@@ -76,12 +76,12 @@ hr.class-1 {
   border-radius: 50%;
 }
 
-body {
-  background-image: url('https://live.staticflickr.com/65535/53992212679_e2262a5d11_h.jpg');
-  background-color: rgba(255, 255, 255, 0.7); 
-  background-blend-mode: overlay;
-}
-
 ul { 
     text-align: left;
 }
+
+/*body {
+  background-image: url('https://live.staticflickr.com/65535/53992212679_e2262a5d11_h.jpg');
+  background-color: rgba(255, 255, 255, 0.7); 
+  background-blend-mode: overlay;
+}*/
