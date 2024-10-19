@@ -39,6 +39,16 @@ h3 {
   height: 100px;
 }
 
+h4 {
+  color: black;
+  font-family: "Helvetica";
+  font-size: 20px;
+  display:table-cell; 
+  vertical-align:middle;
+  width: 1500px;
+  height: 100px;
+}
+
 p {
   color: DimGray; /* DimGray */
   font-family: "Helvetica";
