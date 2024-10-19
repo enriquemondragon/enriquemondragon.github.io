@@ -92,6 +92,8 @@ body {
 }*/
 
 .navbar {
+  position: sticky;
+  top: 0;
   overflow: hidden;
   background-color: gray;
   font-family: "Helvetica";
