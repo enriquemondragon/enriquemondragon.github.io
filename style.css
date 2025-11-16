@@ -116,3 +116,14 @@ body {
   text-align: center;
   padding: 15px 16px;
 }
+
+.terminal {
+    background:#2e2f33;/*black;*/
+    color: #dcdcdc;/*#33ff33;;*/
+    padding: 15px;
+    border-radius: 6px;
+    font-family: "Fira Code", "Courier New", monospace;
+    font-size: 20px;
+    line-height: 1.45;
+    text-align: left;
+}
